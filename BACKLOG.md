@@ -36,3 +36,6 @@ Example interaction
 
 11. Calendar checker  
 "Alexa does Neil have an opening at 3 today" / "Neil's next opening is 2 pm on November 4th, 2066"
+
+12. Elevator pitch
+"Alexa what is Base2's elevator pitch?" / "Base's elevator pitch is..."
